@@ -1,0 +1,7 @@
+◇ injected env (5) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+Server running on port 3002 (FORCED)
+MongoDB Connected: localhost
+✅ Base de Datos Conectada
+Creative forum posts seeded successfully
+2026-04-16T23:20:48.222Z - GET /api/users/ping

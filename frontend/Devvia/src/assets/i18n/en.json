@@ -1,0 +1,463 @@
+{
+  "NAV": {
+    "CATALOG": "Catalog",
+    "COMMUNITY": "Community",
+    "PORTAL": "Talent",
+    "LOGIN": "Login",
+    "LOGOUT": "Logout"
+  },
+  "HOME": {
+    "MAIN": {
+      "SLOGAN": "Where code stars are born.",
+      "DESC": "The ultimate platform for trainee developers looking to stand out, connect, and find their first great challenge.",
+      "EXPLORE": "Explore Catalog"
+    },
+    "SLOGANS": {
+      "S1": { "TITLE": "Boost your career", "DESC": "Upload your projects and stand out." },
+      "S2": { "TITLE": "Connect", "DESC": "Find mentors and peers." },
+      "S3": { "TITLE": "Work", "DESC": "Curated offers for trainees." }
+    },
+    "WHO": {
+      "TITLE": "Who We Are",
+      "BADGE": "Discover our essence",
+      "DESC": "We are a community dedicated to empowering trainee developers.",
+      "MISSION": "Our mission is to bridge the gap between emerging talent and real-world opportunities, providing advanced portfolio tools and a vibrant ecosystem of mentors and peers.",
+      "IMAGE_ALT": "Team working together",
+      "STATS": {
+        "COMMUNITY": "Active Community",
+        "COMMITMENT": "Commitment",
+        "REACH": "Reach",
+        "GLOBAL_VAL": "Global"
+      }
+    },
+    "TOP": "Top Projects",
+    "TOP_PROJECTS": {
+      "BY": "by",
+      "VIEW_MORE": "View more",
+      "SUBTITLE": "Discover the most valued creations by our developer community.",
+      "EXPLORE_ALL": "Explore Full Catalog",
+      "VIEW_REPO": "View Repository",
+      "EXPLORE": "Explore"
+    },
+    "CARROUSEL": {
+      "TITLE": "Visualize your Future",
+      "DESC": "The best tools to showcase your talent to the world.",
+      "ALT": "Carousel slide"
+    },
+    "JOBS": "Recommended Jobs",
+    "JOBS_SECTION": {
+      "APPLY": "Apply",
+      "VIEW_ALL": "View all"
+    },
+    "EVENTS": "Upcoming Events",
+    "EVENTS_SECTION": {
+      "BY": "by",
+      "JOIN": "View Details",
+      "CALENDAR": "View full calendar",
+      "BADGE": "Networking & Learning",
+      "DATA": {
+        "E1": { 
+          "TITLE": "Workshop: React Query", 
+          "HOST": "Ag Studio", 
+          "TYPE": "Workshop",
+          "DATE": "15 Apr",
+          "FULL_DATE": "Friday, April 15, 2026",
+          "TIME": "6:00 PM (GMT-3)",
+          "DESC": "Learn to manage asynchronous state like a pro. We will cover mutations, cache, and request optimization."
+        },
+        "E2": { 
+          "TITLE": "DevTalk: AI Future", 
+          "HOST": "OpenSource", 
+          "TYPE": "Conference",
+          "DATE": "22 Apr",
+          "FULL_DATE": "Wednesday, April 22, 2026",
+          "TIME": "7:30 PM (GMT-3)",
+          "DESC": "Deep dive into how AI is changing the junior developer role and which skills will be key."
+        },
+        "E3": { 
+          "TITLE": "Trainee Hackathon", 
+          "HOST": "Devvia", 
+          "TYPE": "Hackathon",
+          "DATE": "05 May",
+          "FULL_DATE": "Saturday, May 05, 2026",
+          "TIME": "10:00 AM (48 Hours)",
+          "DESC": "48 hours to build an innovative solution. Live mentoring and prizes for the best projects."
+        }
+      },
+      "MODAL": {
+        "TITLE": "Event Details",
+        "INFO": "Event Information",
+        "DATE_LABEL": "Date:",
+        "TIME_LABEL": "Time:",
+        "HOST_LABEL": "Hosted by:",
+        "TYPE_LABEL": "Type:",
+        "CLOSE": "Close",
+        "REGISTER": "Register now"
+      }
+    },
+    "FOOTER": {
+      "SLOGAN": "Empowering the next generation of star developers. 2026.",
+      "PLATFORM": "Platform",
+      "CATALOG": "Catalog",
+      "JOBS": "Job Board",
+      "COMMUNITY": "Community",
+      "RESOURCES": "Resources",
+      "BLOG": "Blog",
+      "DOCS": "Documentation",
+      "HELP": "Help Center",
+      "LEGAL": "Legal",
+      "TERMS": "Terms",
+      "PRIVACY": "Privacy",
+      "FOLLOW_US": "Follow Us",
+      "NEWSLETTER": "Join our Newsletter",
+      "NEWSLETTER_DESC": "The latest news, articles, and resources, sent to your inbox weekly.",
+      "SUBSCRIBE": "Subscribe",
+      "DEVELOPED": "Developed by Ag Studio's",
+      "COPYRIGHT": "All rights reserved."
+    }
+  },
+  "COMMON": {
+    "MODE_LIGHT": "Light Mode",
+    "MODE_DARK": "Dark Mode",
+    "SUPPORT": "Support",
+    "LANGUAGE": "Language"
+  },
+  "SUPPORT_BOT": {
+    "HEADER": "Support Assistant",
+    "SUBTITLE": "Ask anything about Devvia, career tips, or technical support.",
+    "ASSISTANT_NAME": "Devvia Support",
+    "STATUS_ONLINE": "Support Online",
+    "INITIAL_MSG": "Hello! I am the Devvia Support assistant. I'm here to help you navigate our ecosystem through the use of tags. What would you like to know?",
+    "PLACEHOLDER": "Select an option or type here...",
+    "CHOOSE_OPTION": "Available topics:",
+    "THINKING": "Processing...",
+    "RESET_CHAT": "Reset Chat",
+    "OPTIONS": {
+      "explore_platform": "About the Platform",
+      "career_boost": "Professional Boost",
+      "projects_help": "Project Management",
+      "community_rules": "Community & Rules",
+      "technical_issue": "Technical Support",
+      "solucionar_sitio": "Site Issues",
+      "error_login": "Login Error",
+      "info_portal": "Portal Info",
+      "aprender_uso": "How to use Devvia",
+      "como_postular": "How to apply",
+      "subir_mi_proyecto": "Upload my project",
+      "what_is_devvia": "What is Devvia?",
+      "how_it_works": "How it works?",
+      "benefits": "Benefits",
+      "find_jobs": "Find Jobs",
+      "match_algorithm": "Match System",
+      "interview_tips": "Interview Tips",
+      "upload_project": "Upload a Project",
+      "showcase_talent": "Enhance Portfolio",
+      "open_source": "Open Source Projects",
+      "networking": "Networking",
+      "mentorship": "Mentorship & Guidance",
+      "report_issue": "Report a Bug",
+      "account_help": "Security & Account",
+      "back_to_main": "Main Menu"
+    },
+    "FLOW": {
+      "WELCOME": "I'm ready to assist you. Choose a topic below or type your specific question in the chat.",
+      "EXPLORE_PLATFORM": "Devvia is a platform designed for junior developers to showcase their talent. You can host projects, get community feedback, and find career opportunities.",
+      "WHAT_IS_DEVVIA": "Devvia is an ecosystem for emerging tech talent. We offer a Project Catalog, a Talent Portal for jobs, and a community space for learning and networking.",
+      "HOW_IT_WORKS": "Start by creating a profile and linking your GitHub projects. Our 'Match' system will then connect you with the best job opportunities based on your skills.",
+      "BENEFITS": "As a Devvia member, you get high-quality visibility for your code, access to exclusive job postings, and a direct path to tech recruiters.",
+      "CAREER_BOOST": "Our Talent Portal focuses on transparency. We show you exactly how well your skills match a job's requirements.",
+      "FIND_JOBS": "Visit the 'Talent Portal' in the main menu. Use filters to find roles that match your technology stack and experience level.",
+      "MATCH_ALGORITHM": "We calculate a 'Match Level' by comparing your project technologies with job requirements. Keep your projects updated to increase your score!",
+      "INTERVIEW_TIPS": "Be ready to walk through your code. Recruiters at Devvia value developers who can explain the 'why' behind their technical decisions.",
+      "PROJECTS_HELP": "Your projects are your most powerful resume. We help you showcase them with stars, forks, and direct repository links.",
+      "UPLOAD_PROJECT": "Go to your Profile and click 'Add Project'. Link your repository and add a clear description to make it stand out in the Catalog.",
+      "SHOWCASE_TALENT": "Great projects have clear READMEs and live demos. Make sure your best work is pinned and well-documented for recruiters to see.",
+      "OPEN_SOURCE": "Devvia supports Open Source. You can mark your repositories as open for collaboration to build projects with other community members.",
+      "COMMUNITY_RULES": "We foster a helpful and professional environment. Connect with mentors in the Forum and join our weekly workshops to grow your network.",
+      "NETWORKING": "Check the 'Events' section for upcoming Hackathons, DevTalks, and Workshops. These are great places to meet mentors and peers.",
+      "MENTORSHIP": "You can find feedback and guidance in the Forum. Many experienced developers in our community are happy to review your code and offer tips.",
+      "TECHNICAL_ISSUE": "If you're having trouble with the site or your account, please select one of the specific options below.",
+      "SOLVE_SITE": "If the site is not loading correctly or you see visual glitches, try clearing your browser cache. If the issue persists, please report the specific error.",
+      "LOGIN_ERROR_DETAIL": "If you cannot login, verify that your email and password are correct. If you forgot your password, you can use the recovery option on the login screen.",
+      "REPORT_ISSUE": "Please report bugs in the 'Support' section of our Forum or email us at support@devvia.com with details about the issue.",
+      "ACCOUNT_HELP": "Manage your security settings, including Two-Factor Authentication (2FA), directly in your User Profile under the Security tab."
+    }
+  },
+  "FORUM": {
+    "UI": {
+      "TITLE": "Devvia Community",
+      "SUBTITLE": "Connect, share, and grow with other developers.",
+      "BACK": "Back to forum",
+      "BY": "By",
+      "RATING_TITLE": "Rate this discussion",
+      "COMMENTS_COUNT": "Comments",
+      "COMMENTS_SECTION": "Comments Section",
+      "YOUR_REPLY": "Your Reply",
+      "PLACEHOLDER": "Write something awesome...",
+      "PLACEHOLDER_LOGIN": "Log in to participate",
+      "SEND": "Send Comment",
+      "EDIT": "Edit",
+      "DELETE": "Delete",
+      "SAVE": "Save",
+      "CANCEL": "Cancel",
+      "CONFIRM_DELETE": "Delete comment?",
+      "CONFIRM_DELETE_DESC": "This action cannot be undone.",
+      "MUST_LOGIN": "You must be logged in to comment.",
+      "MUST_LOGIN_COMMENT": "You must log in to comment",
+      "LOADING": "Loading community...",
+      "NO_COMMENTS": "No comments yet. Be the first!",
+      "SEARCH_PLACEHOLDER": "Search discussions, bugs or tips...",
+      "FILTER_BTN": "Filters",
+      "NO_RESULTS": "No discussions found matching your search.",
+      "BOLD": "Bold",
+      "ITALIC": "Italic",
+      "LINK": "Link"
+    },
+    "BUTTONS": {
+      "NEW_POST": "New Post",
+      "PUBLISH": "Publish",
+      "UPDATE": "Update",
+      "CANCEL": "Cancel"
+    },
+    "STATS": {
+      "COMMENTS": "Comments"
+    },
+    "LABELS": {
+      "TITLE": "Title",
+      "CONTENT": "Content",
+      "TAGS": "Tags"
+    },
+    "MODALS": {
+      "NEW_POST": "New Post",
+      "EDIT_POST": "Edit Post"
+    },
+    "PLACEHOLDERS": {
+      "WRITE_COMMENT": "Write a comment..."
+    },
+    "MESSAGES": {
+      "COMMENT_SUCCESS": "Comment sent successfully",
+      "COMMENT_ERROR": "Error sending comment",
+      "RATE_SUCCESS": "Thanks for rating!",
+      "RATE_ERROR": "Error rating",
+      "POSTS_LOAD_ERROR": "Error loading posts",
+      "DETAILS_LOAD_ERROR": "Error loading details",
+      "UPDATE_SUCCESS": "Comment updated successfully",
+      "UPDATE_ERROR": "Error updating comment",
+      "DELETE_SUCCESS": "Comment deleted successfully",
+      "DELETE_ERROR": "Error deleting comment"
+    },
+    "CATEGORIES": {
+      "GENERAL": "General",
+      "HELP": "Help",
+      "PROJECTS": "Projects",
+      "JOBS": "Jobs",
+      "NEWS": "News",
+      "TUTORIALS": "Tutorials",
+      "QUESTIONS": "Questions",
+      "FEEDBACK": "Feedback",
+      "OFFTOPIC": "Off-topic",
+      "PRODUCCIÓN": "Production",
+      "EXPERIENCIAS": "Experiences",
+      "SENIORITY": "Seniority",
+      "BUGS": "Bugs",
+      "HUMOR": "Humor",
+      "SALUDMENTAL": "Mental Health",
+      "CLEANCODE": "Clean Code",
+      "ARQUITECTURA": "Architecture",
+      "DISEÑO": "Design",
+      "ENTREVISTAS": "Interviews",
+      "SOFTSKILLS": "Soft Skills",
+      "CONSEJOS": "Tips",
+      "AI": "AI",
+      "DEBATE": "Debate",
+      "FUTURO": "Future"
+    },
+    "POSTS": {
+      "POST1": {
+        "TITLE": "How to start with React Query?",
+        "CONTENT": "I've been seeing that many projects on Devvia use React Query. Is it worth learning it now or should I stick with useEffect?"
+      },
+      "POST2": {
+        "TITLE": "My first technical interview",
+        "CONTENT": "Hi everyone! Tomorrow I have my first interview for a Trainee position. Any advice on what to review for JavaScript?"
+      },
+      "POST3": {
+        "TITLE": "MongoDB error on Render",
+        "CONTENT": "I'm trying to deploy my backend but I'm getting a database connection error. Has anyone had issues with IPs?"
+      },
+      "POST4": {
+        "TITLE": "Tips for a good README",
+        "CONTENT": "I've noticed that projects with the most stars have amazing READMEs. Here is a template that served me well."
+      },
+      "POST5": {
+        "TITLE": "What stack do you recommend for 2026?",
+        "CONTENT": "I feel like there are too many options. Is MERN still the best choice to get your first job or do you recommend going for Go/Rust?"
+      }
+    }
+  },
+  "PORTAL": {
+    "HEADER": {
+      "TITLE": "Talent Portal",
+      "SUBTITLE": "Discover your next great opportunity among the {{count}} vacancies available today."
+    },
+    "FILTERS": {
+      "TITLE": "Filters",
+      "CLOSE": "Close Filters",
+      "OPEN": "Filter Search",
+      "SEARCH": "Search",
+      "SEARCH_PLACEHOLDER": "Job, company...",
+      "LOCATION": "Location",
+      "ALL_LOCATIONS": "All locations",
+      "TAGS": "Tags",
+      "CLEAR": "Clear",
+      "VIEW_RESULTS": "View Results"
+    },
+    "JOBS": {
+      "MATCH": "{{count}}% Match",
+      "APPLY_NOW": "Apply Now",
+      "APPLYING": "Sending...",
+      "APPLIED": "Applied",
+      "NO_RESULTS": "No jobs found",
+      "SHOWING": "Showing {{first}}-{{last}} of {{total}} jobs"
+    },
+    "MODAL": {
+      "TITLE": "Confirm Application",
+      "DESC": "You are one step away from sending your profile to {{company}}.",
+      "MATCH_LEVEL": "Match Level",
+      "IDEAL": "Ideal Candidate!",
+      "HIGH": "Highly compatible",
+      "COMPATIBLE": "Compatible",
+      "CONFIRM": "Confirm Submission",
+      "CANCEL": "Cancel",
+      "MUST_LOGIN": "You must log in to apply."
+    }
+  },
+  "CATALOG": {
+    "HEADER": {
+      "TITLE": "Project Catalog",
+      "SUBTITLE": "Explore community code and learn from real projects."
+    },
+    "PROJECT": {
+      "VIEW_CODE": "View Code",
+      "DOWNLOAD": "Download .ZIP",
+      "FILES": "Files",
+      "STARS": "Stars",
+      "FORKS": "Forks",
+      "EMPTY": "No projects available yet.",
+      "BACK": "Back to catalog",
+      "NEW": "New Repository",
+      "DOWNLOAD_SOURCE": "Download Source",
+      "FILES_EXPLORER": "Files Explorer",
+      "INSPECT_CODE": "Inspect Code",
+      "SELECT_FILE_MSG": "Select a file to inspect code",
+      "EDIT": "Edit Project",
+      "DELETE": "Delete Project",
+      "CONFIRM_DELETE": "Are you sure you want to delete this repository?",
+      "UPDATE_SUCCESS": "Project updated successfully",
+      "DELETE_SUCCESS": "Project deleted successfully",
+      "DELETE_ERROR": "Error deleting project"
+    },
+    "MODAL": {
+      "TITLE": "Cloud Deployment",
+      "SUBTITLE": "Upload source code or create files manually",
+      "NAME": "Repository Name",
+      "DESC": "Description",
+      "LANG": "Main Language",
+      "VISIBILITY": "Visibility",
+      "PUBLIC": "Public",
+      "PRIVATE": "Private",
+      "TAGS": "Technologies (Separated by commas)",
+      "DROP_TITLE": "Drop your code here",
+      "DROP_SUB": "or click to browse local files (Max 20 files, 5MB each)",
+      "EMPTY_BUFFER": "Empty Repository Buffer",
+      "FILE_EXTERNAL": "External File",
+      "FILE_INTERNAL": "Internal Buffer",
+      "MANUAL_TITLE": "Manual File Creation",
+      "ADD_BUFFER": "Add to Buffer",
+      "CANCEL": "Cancel Deployment",
+      "SAVING": "Deploying Repository...",
+      "SUBMIT": "Push to Devvia Cloud",
+      "SUCCESS": "Repository successfully published to the cloud!",
+      "INVALID_EXT": "File type not allowed",
+      "NEED_NAME": "The file needs a name",
+      "NEED_PROJECT_NAME": "Repository name is required",
+      "NEED_DESC": "Repository description is required",
+      "DEPLOY_ERROR": "Error deploying repository"
+    },
+    "PROJECTS": {
+      "Calculadora-Neumorfica": {
+        "NAME": "Neumorphic Calculator",
+        "DESC": "An aesthetic calculator with Neumorphic design using only native HTML and CSS. Ideal for learning about shadows and modern design."
+      },
+      "Landing-Page-Minimalista": {
+        "NAME": "Minimalist Landing Page",
+        "DESC": "A responsive and modern landing page template for startups. Includes sections for hero, features, and contact."
+      },
+      "Juego-Snake-JS": {
+        "NAME": "Snake JS Game",
+        "DESC": "The classic snake game programmed in pure JavaScript using the Canvas API. No external dependencies."
+      },
+      "Dashboard-Admin-Dark": {
+        "NAME": "Dark Admin Dashboard",
+        "DESC": "A dark administration panel with animated charts using CSS Grid and Flexbox. Fully customizable."
+      },
+      "Devvia-Frontend": {
+        "NAME": "Devvia Frontend",
+        "DESC": "The main Devvia platform repository built with React and Tailwind."
+      }
+    }
+  },
+  "USER": {
+    "NAV": {
+      "PERSONAL": "Personal Data",
+      "APPLICATIONS": "My Applications",
+      "SECURITY": "Security & 2FA",
+      "TECH": "Skills"
+    },
+    "PERSONAL": {
+      "TITLE": "Personal Information",
+      "AVATAR": "Select your Avatar",
+      "NAME": "First Name",
+      "NAME_PLACEHOLDER": "Your name...",
+      "SURNAME": "Last Name",
+      "SURNAME_PLACEHOLDER": "Your last name...",
+      "SAVE": "Save Changes",
+      "SAVING": "Saving..."
+    },
+    "APPLICATIONS": {
+      "TITLE": "My Applications",
+      "EMPTY": "You haven't applied to any offers yet.",
+      "DATE": "Date",
+      "STATUS": "Status",
+      "DELETE_TOOLTIP": "Delete application",
+      "MODAL_TITLE": "Delete Application?",
+      "MODAL_DESC": "You are about to withdraw your application for {{puesto}} at {{empresa}}.",
+      "CONFIRM_DELETE": "Confirm Deletion",
+      "CANCEL": "Cancel"
+    },
+    "SECURITY": {
+      "TITLE": "Change Password",
+      "OLD_PASS": "Current Password",
+      "NEW_PASS": "New Password",
+      "UPDATE_SEC": "Update Security",
+      "TWOFA_TITLE": "Two-Factor (2FA)",
+      "TWOFA_DESC": "Increase your account security by requiring an extra code when logging in.",
+      "TWOFA_ON": "Two-Factor Enabled",
+      "TWOFA_OFF": "Enable Two-Factor"
+    },
+    "TECH": {
+      "TITLE": "Technical Skills",
+      "EMPTY": "You haven't added any skills yet.",
+      "SUGGESTIONS": "Suggestions",
+      "CONFIRM": "Confirm Skills"
+    },
+    "MESSAGES": {
+      "UPDATED": "Profile updated successfully",
+      "PASS_CHANGED": "Password changed",
+      "PASS_FIELDS": "Complete both fields",
+      "DELETE_SUCCESS": "Application deleted successfully",
+      "DELETE_ERROR": "Could not delete application",
+      "TWOFA_ERROR": "Error changing 2FA"
+    }
+  }
+}

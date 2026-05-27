@@ -1,0 +1,463 @@
+{
+  "NAV": {
+    "CATALOG": "Catálogo",
+    "COMMUNITY": "Comunidad",
+    "PORTAL": "Talento",
+    "LOGIN": "Ingresar",
+    "LOGOUT": "Salir"
+  },
+  "HOME": {
+    "MAIN": {
+      "SLOGAN": "Donde las estrellas de código nacen.",
+      "DESC": "La plataforma definitiva para desarrolladores trainee que buscan destacar, conectar y encontrar su primer gran desafío.",
+      "EXPLORE": "Explorar Catálogo"
+    },
+    "SLOGANS": {
+      "S1": { "TITLE": "Impulsa tu carrera", "DESC": "Sube tus proyectos y destaca." },
+      "S2": { "TITLE": "Conecta", "DESC": "Encuentra mentores y compañeros." },
+      "S3": { "TITLE": "Trabajo", "DESC": "Ofertas curadas para trainees." }
+    },
+    "WHO": {
+      "TITLE": "¿Quiénes Somos?",
+      "BADGE": "Descubre nuestra esencia",
+      "DESC": "Somos una comunidad dedicada a impulsar a los desarrolladores trainee.",
+      "MISSION": "Nuestra misión es conectar el talento emergente con oportunidades reales, brindando herramientas de portafolio y una comunidad activa de mentores y compañeros.",
+      "IMAGE_ALT": "Equipo trabajando",
+      "STATS": {
+        "COMMUNITY": "Comunidad Activa",
+        "COMMITMENT": "Compromiso",
+        "REACH": "Alcance",
+        "GLOBAL_VAL": "Global"
+      }
+    },
+    "TOP": "Top Proyectos",
+    "TOP_PROJECTS": {
+      "BY": "por",
+      "VIEW_MORE": "Ver más",
+      "SUBTITLE": "Descubre las creaciones más valoradas por nuestra comunidad de desarrolladores.",
+      "EXPLORE_ALL": "Explorar Catálogo Completo",
+      "VIEW_REPO": "Ver Repositorio",
+      "EXPLORE": "Explorar"
+    },
+    "CARROUSEL": {
+      "TITLE": "Visualiza tu Futuro",
+      "DESC": "Las mejores herramientas para mostrar tu talento al mundo.",
+      "ALT": "Imagen de carrusel"
+    },
+    "JOBS": "Empleos Recomendados",
+    "JOBS_SECTION": {
+      "APPLY": "Postularse",
+      "VIEW_ALL": "Ver todas"
+    },
+    "EVENTS": "Próximos Eventos",
+    "EVENTS_SECTION": {
+      "BY": "por",
+      "JOIN": "Ver detalles",
+      "CALENDAR": "Ver calendario completo",
+      "BADGE": "Networking & Aprendizaje",
+      "DATA": {
+        "E1": { 
+          "TITLE": "Workshop: React Query", 
+          "HOST": "Ag Studio", 
+          "TYPE": "Workshop",
+          "DATE": "15 Abr",
+          "FULL_DATE": "Viernes, 15 de Abril de 2026",
+          "TIME": "18:00 HS (GMT-3)",
+          "DESC": "Aprende a gestionar el estado asíncrono como un profesional. Veremos mutaciones, cache y optimización de peticiones."
+        },
+        "E2": { 
+          "TITLE": "DevTalk: Futuro AI", 
+          "HOST": "OpenSource", 
+          "TYPE": "Conferencia",
+          "DATE": "22 Abr",
+          "FULL_DATE": "Miércoles, 22 de Abril de 2026",
+          "TIME": "19:30 HS (GMT-3)",
+          "DESC": "Análisis profundo sobre cómo la IA está cambiando el rol del desarrollador junior y qué habilidades serán clave."
+        },
+        "E3": { 
+          "TITLE": "Hackathon Trainee", 
+          "HOST": "Devvia", 
+          "TYPE": "Hackathon",
+          "DATE": "05 May",
+          "FULL_DATE": "Sábado, 05 de Mayo de 2026",
+          "TIME": "10:00 HS (48 Horas)",
+          "DESC": "48 horas para construir una solución innovadora. Mentoría en vivo y premios para los mejores proyectos."
+        }
+      },
+      "MODAL": {
+        "TITLE": "Detalles del Evento",
+        "INFO": "Información del Evento",
+        "DATE_LABEL": "Fecha:",
+        "TIME_LABEL": "Hora:",
+        "HOST_LABEL": "Organizado por:",
+        "TYPE_LABEL": "Tipo:",
+        "CLOSE": "Cerrar",
+        "REGISTER": "Inscribirse ahora"
+      }
+    },
+    "FOOTER": {
+      "SLOGAN": "Impulsando la próxima generación de desarrolladores estrellas. 2026.",
+      "PLATFORM": "Plataforma",
+      "CATALOG": "Catálogo",
+      "JOBS": "Bolsa de Trabajo",
+      "COMMUNITY": "Comunidad",
+      "RESOURCES": "Recursos",
+      "BLOG": "Blog",
+      "DOCS": "Documentation",
+      "HELP": "Centro de Ayuda",
+      "LEGAL": "Legal",
+      "TERMS": "Términos",
+      "PRIVACY": "Privacidad",
+      "FOLLOW_US": "Síguenos",
+      "NEWSLETTER": "Únete a nuestro Newsletter",
+      "NEWSLETTER_DESC": "Las últimas noticias, artículos y recursos, enviados a tu bandeja cada semana.",
+      "SUBSCRIBE": "Suscribirse",
+      "DEVELOPED": "Desarrollado por Ag Studio's",
+      "COPYRIGHT": "Todos los derechos reservados."
+    }
+  },
+  "COMMON": {
+    "MODE_LIGHT": "Modo Día",
+    "MODE_DARK": "Modo Noche",
+    "SUPPORT": "Soporte",
+    "LANGUAGE": "Idioma"
+  },
+  "SUPPORT_BOT": {
+    "HEADER": "Asistente de Soporte",
+    "SUBTITLE": "Consulta sobre Devvia, consejos de carrera o soporte técnico.",
+    "ASSISTANT_NAME": "Soporte Devvia",
+    "STATUS_ONLINE": "Soporte Activo",
+    "INITIAL_MSG": "¡Hola! Soy el asistente de Soporte Devvia. Estoy aquí para ayudarte a navegar nuestro ecosistema mediante el uso de etiquetas. ¿Qué te gustaría saber?",
+    "PLACEHOLDER": "Selecciona una opción o escribe aquí...",
+    "CHOOSE_OPTION": "Temas disponibles:",
+    "THINKING": "Procesando...",
+    "RESET_CHAT": "Reiniciar Chat",
+    "OPTIONS": {
+      "explore_platform": "Sobre la Plataforma",
+      "career_boost": "Impulso Profesional",
+      "projects_help": "Gestión de Proyectos",
+      "community_rules": "Comunidad y Normas",
+      "technical_issue": "Asistencia Técnica",
+      "solucionar_sitio": "Problemas con el sitio",
+      "error_login": "Error al ingresar",
+      "info_portal": "Información del Portal",
+      "aprender_uso": "Aprender a usar Devvia",
+      "como_postular": "Cómo postularse",
+      "subir_mi_proyecto": "Subir mi proyecto",
+      "what_is_devvia": "¿Qué es Devvia?",
+      "how_it_works": "Funcionamiento",
+      "benefits": "Beneficios",
+      "find_jobs": "Buscar Empleo",
+      "match_algorithm": "Sistema de Match",
+      "interview_tips": "Tips para Entrevistas",
+      "upload_project": "Subir un Proyecto",
+      "showcase_talent": "Potenciar Portafolio",
+      "open_source": "Proyectos Open Source",
+      "networking": "Networking",
+      "mentorship": "Mentorías y Guía",
+      "report_issue": "Informar un Error",
+      "account_help": "Seguridad y Cuenta",
+      "back_to_main": "Menú Principal"
+    },
+    "FLOW": {
+      "WELCOME": "Estoy listo para ayudarte. Elige un tema abajo o escribe tu pregunta específica en el chat.",
+      "EXPLORE_PLATFORM": "Devvia es una plataforma diseñada para que desarrolladores junior muestren su talento. Puedes alojar proyectos, recibir feedback y encontrar oportunidades laborales.",
+      "WHAT_IS_DEVVIA": "Devvia es un ecosistema para el talento tech emergente. Ofrecemos un Catálogo de Proyectos, un Portal de Talento para empleos y un espacio comunitario.",
+      "HOW_IT_WORKS": "Comienza creando tu perfil y vinculando tus proyectos de GitHub. Nuestro sistema de 'Match' te conectará con las mejores ofertas según tus habilidades.",
+      "BENEFITS": "Como miembro de Devvia, obtienes visibilidad de alta calidad para tu código, acceso a ofertas de empleo exclusivas y conexión directa con reclutadores.",
+      "CAREER_BOOST": "Nuestro Portal de Talento se enfoca en la transparencia. Te mostramos exactamente qué tanto coinciden tus habilidades con los requisitos del puesto.",
+      "FIND_JOBS": "Visita el 'Portal de Talento' en el menú principal. Usa los filtros para encontrar roles que se ajusten a tu stack tecnológico y experiencia.",
+      "MATCH_ALGORITHM": "Calculamos un 'Nivel de Match' comparando las tecnologías de tus proyectos con los requisitos del empleo. ¡Mantén tus proyectos al día para subir tu puntaje!",
+      "INTERVIEW_TIPS": "Prepárate para explicar tu código. Los reclutadores en Devvia valoran a los desarrolladores que entienden el 'por qué' tras sus decisiones técnicas.",
+      "PROJECTS_HELP": "Tus proyectos son tu mejor currículum. Te ayudamos a destacarlos con estrellas, forks y enlaces directos a tus repositorios.",
+      "UPLOAD_PROJECT": "Ve a tu Perfil y pulsa 'Añadir Proyecto'. Vincula tu repositorio y añade una descripción clara para que destaque en el Catálogo.",
+      "SHOWCASE_TALENT": "Los grandes proyectos tienen READMEs claros y demos en vivo. Asegúrate de que tu mejor trabajo esté bien documentado para los reclutadores.",
+      "OPEN_SOURCE": "Devvia fomenta el Open Source. Puedes marcar tus repositorios como abiertos a colaboración para construir proyectos con otros miembros.",
+      "COMMUNITY_RULES": "Fomentamos un ambiente profesional y de ayuda. Conecta con mentores en el Foro y únete a nuestros talleres semanales para crecer.",
+      "NETWORKING": "Revisa la sección de 'Eventos' para participar en Hackathons, DevTalks y Workshops. Son lugares ideales para conocer mentores y colegas.",
+      "MENTORSHIP": "Puedes encontrar guía y feedback en el Foro. Muchos desarrolladores expertos de nuestra comunidad estarán felices de revisar tu código.",
+      "TECHNICAL_ISSUE": "Si tienes problemas con el sitio o con tu cuenta, selecciona una de las opciones específicas para que pueda ayudarte mejor.",
+      "SOLVE_SITE": "Si el sitio no carga correctamente o ves errores visuales, intenta limpiar el caché de tu navegador. Si el problema persiste, infórmanos el error específico.",
+      "LOGIN_ERROR_DETAIL": "Si no puedes ingresar, verifica que tu correo y contraseña sean correctos. Si olvidaste tu contraseña, puedes usar la opción de recuperación en la pantalla de ingreso.",
+      "REPORT_ISSUE": "Reporta errores en la sección de 'Soporte' de nuestro Foro o envíanos un correo a support@devvia.com con los detalles.",
+      "ACCOUNT_HELP": "Gestiona tu seguridad, incluyendo la Verificación en Dos Pasos (2FA), directamente en tu Perfil de Usuario bajo la pestaña de Seguridad."
+    }
+  },
+  "FORUM": {
+    "UI": {
+      "TITLE": "Comunidad Devvia",
+      "SUBTITLE": "Conecta, comparte y crece con otros desarrolladores.",
+      "BACK": "Volver al foro",
+      "BY": "Por",
+      "RATING_TITLE": "Califica esta discusión",
+      "COMMENTS_COUNT": "Comentarios",
+      "COMMENTS_SECTION": "Sección de Comentarios",
+      "YOUR_REPLY": "Tu Respuesta",
+      "PLACEHOLDER": "Escribe algo asombroso...",
+      "PLACEHOLDER_LOGIN": "Inicia sesión para participar",
+      "SEND": "Enviar Comentario",
+      "EDIT": "Editar",
+      "DELETE": "Eliminar",
+      "SAVE": "Guardar",
+      "CANCEL": "Cancelar",
+      "CONFIRM_DELETE": "¿Eliminar comentario?",
+      "CONFIRM_DELETE_DESC": "Esta acción no se puede deshacer.",
+      "MUST_LOGIN": "Debes estar conectado para comentar.",
+      "MUST_LOGIN_COMMENT": "Debes iniciar sesión para comentar",
+      "LOADING": "Cargando comunidad...",
+      "NO_COMMENTS": "No hay comentarios aún. ¡Sé el primero!",
+      "SEARCH_PLACEHOLDER": "Buscar discusiones, errores o consejos...",
+      "FILTER_BTN": "Filtros",
+      "NO_RESULTS": "No se encontraron discusiones que coincidan con tu búsqueda.",
+      "BOLD": "Negrita",
+      "ITALIC": "Cursiva",
+      "LINK": "Enlace"
+    },
+    "BUTTONS": {
+      "NEW_POST": "Nueva Publicación",
+      "PUBLISH": "Publicar",
+      "UPDATE": "Actualizar",
+      "CANCEL": "Cancelar"
+    },
+    "STATS": {
+      "COMMENTS": "Comentarios"
+    },
+    "LABELS": {
+      "TITLE": "Título",
+      "CONTENT": "Contenido",
+      "TAGS": "Etiquetas"
+    },
+    "MODALS": {
+      "NEW_POST": "Nueva Publicación",
+      "EDIT_POST": "Editar Post"
+    },
+    "PLACEHOLDERS": {
+      "WRITE_COMMENT": "Escribe un comentario..."
+    },
+    "MESSAGES": {
+      "COMMENT_SUCCESS": "Comentario enviado con éxito",
+      "COMMENT_ERROR": "Error al enviar comentario",
+      "RATE_SUCCESS": "¡Gracias por calificar!",
+      "RATE_ERROR": "Error al calificar",
+      "POSTS_LOAD_ERROR": "Error al cargar las publicaciones",
+      "DETAILS_LOAD_ERROR": "Error al cargar detalles",
+      "UPDATE_SUCCESS": "Comentario actualizado correctamente",
+      "UPDATE_ERROR": "Error al actualizar el comentario",
+      "DELETE_SUCCESS": "Comentario eliminado correctamente",
+      "DELETE_ERROR": "Error al eliminar el comentario"
+    },
+    "CATEGORIES": {
+      "GENERAL": "General",
+      "HELP": "Ayuda",
+      "PROJECTS": "Proyectos",
+      "JOBS": "Empleos",
+      "NEWS": "Noticias",
+      "TUTORIALS": "Tutoriales",
+      "QUESTIONS": "Preguntas",
+      "FEEDBACK": "Sugerencias",
+      "OFFTOPIC": "Fuera de Tema",
+      "PRODUCCIÓN": "Producción",
+      "EXPERIENCIAS": "Experiencias",
+      "SENIORITY": "Seniority",
+      "BUGS": "Errores",
+      "HUMOR": "Humor",
+      "SALUDMENTAL": "Salud Mental",
+      "CLEANCODE": "Código Limpio",
+      "ARQUITECTURA": "Arquitectura",
+      "DISEÑO": "Diseño",
+      "ENTREVISTAS": "Entrevistas",
+      "SOFTSKILLS": "Habilidades Blandas",
+      "CONSEJOS": "Consejos",
+      "AI": "IA",
+      "DEBATE": "Debate",
+      "FUTURO": "Futuro"
+    },
+    "POSTS": {
+      "POST1": {
+        "TITLE": "¿Cómo empezar con React Query?",
+        "CONTENT": "He estado viendo que muchos proyectos en Devvia usan React Query. ¿Vale la pena aprenderlo ahora o sigo con useEffect?"
+      },
+      "POST2": {
+        "TITLE": "Mi primera entrevista técnica",
+        "CONTENT": "¡Hola a todos! Mañana tengo mi primera entrevista para un puesto Trainee. ¿Algún consejo sobre qué repasar de JavaScript?"
+      },
+      "POST3": {
+        "TITLE": "Error con MongoDB en Render",
+        "CONTENT": "Estoy intentando desplegar mi backend pero recibo un error de conexión con la base de datos. ¿Alguien ha tenido problemas con las IPs?"
+      },
+      "POST4": {
+        "TITLE": "Tips para un buen README",
+        "CONTENT": "He notado que los proyectos con más estrellas tienen READMEs increíbles. Aquí les dejo una plantilla que me sirvió mucho."
+      },
+      "POST5": {
+        "TITLE": "¿Qué stack recomiendan para 2026?",
+        "CONTENT": "Siento que hay demasiadas opciones. ¿Sigue siendo MERN la mejor opción para conseguir el primer empleo o recomiendan ir por Go/Rust?"
+      }
+    }
+  },
+  "PORTAL": {
+    "HEADER": {
+      "TITLE": "Portal de Talento",
+      "SUBTITLE": "Descubre tu próxima gran oportunidad entre las {{count}} vacantes disponibles hoy."
+    },
+    "FILTERS": {
+      "TITLE": "Filtros",
+      "CLOSE": "Cerrar Filtros",
+      "OPEN": "Filtrar Búsqueda",
+      "SEARCH": "Buscar",
+      "SEARCH_PLACEHOLDER": "Puesto, empresa...",
+      "LOCATION": "Ubicación",
+      "ALL_LOCATIONS": "Todas las ubicaciones",
+      "TAGS": "Etiquetas",
+      "CLEAR": "Limpiar",
+      "VIEW_RESULTS": "Ver Resultados"
+    },
+    "JOBS": {
+      "MATCH": "{{count}}% Match",
+      "APPLY_NOW": "Postularse Ahora",
+      "APPLYING": "Enviando...",
+      "APPLIED": "Postulado",
+      "NO_RESULTS": "No se encontraron empleos",
+      "SHOWING": "Mostrando {{first}}-{{last}} de {{total}} empleos"
+    },
+    "MODAL": {
+      "TITLE": "Confirmar Postulación",
+      "DESC": "Estás a un paso de enviar tu perfil a {{company}}.",
+      "MATCH_LEVEL": "Nivel de Match",
+      "IDEAL": "¡Candidato Ideal!",
+      "HIGH": "Muy compatible",
+      "COMPATIBLE": "Compatible",
+      "CONFIRM": "Confirmar Envío",
+      "CANCEL": "Cancelar",
+      "MUST_LOGIN": "Debes iniciar sesión para postularte."
+    }
+  },
+  "CATALOG": {
+    "HEADER": {
+      "TITLE": "Catálogo de Proyectos",
+      "SUBTITLE": "Explora el código de la comunidad y aprende de proyectos reales."
+    },
+    "PROJECT": {
+      "VIEW_CODE": "Ver Código",
+      "DOWNLOAD": "Descargar .ZIP",
+      "FILES": "Archivos",
+      "STARS": "Estrellas",
+      "FORKS": "Forks",
+      "EMPTY": "No hay proyectos disponibles aún.",
+      "BACK": "Volver al catálogo",
+      "NEW": "Nuevo Repositorio",
+      "DOWNLOAD_SOURCE": "Descargar Código",
+      "FILES_EXPLORER": "Explorador de Archivos",
+      "INSPECT_CODE": "Inspeccionar Código",
+      "SELECT_FILE_MSG": "Selecciona un archivo para ver el código",
+      "EDIT": "Editar Proyecto",
+      "DELETE": "Eliminar Proyecto",
+      "CONFIRM_DELETE": "¿Estás seguro de que quieres eliminar este repositorio?",
+      "UPDATE_SUCCESS": "Proyecto actualizado correctamente",
+      "DELETE_SUCCESS": "Proyecto eliminado correctamente",
+      "DELETE_ERROR": "Error al eliminar el proyecto"
+    },
+    "MODAL": {
+      "TITLE": "Despliegue en la Nube",
+      "SUBTITLE": "Sube el código fuente o crea archivos manualmente",
+      "NAME": "Nombre del Repositorio",
+      "DESC": "Descripción",
+      "LANG": "Lenguaje Principal",
+      "VISIBILITY": "Visibilidad",
+      "PUBLIC": "Público",
+      "PRIVATE": "Privado",
+      "TAGS": "Tecnologías (Separadas por comas)",
+      "DROP_TITLE": "Arrastra tu código aquí",
+      "DROP_SUB": "o haz clic para buscar archivos locales (Máx 20 archivos, 5MB c/u)",
+      "EMPTY_BUFFER": "El borrador del repositorio está vacío",
+      "FILE_EXTERNAL": "Archivo Externo",
+      "FILE_INTERNAL": "Borrador Interno",
+      "MANUAL_TITLE": "Creación Manual de Archivos",
+      "ADD_BUFFER": "Agregar al Borrador",
+      "CANCEL": "Cancelar Despliegue",
+      "SAVING": "Desplegando Repositorio...",
+      "SUBMIT": "Publicar en Devvia Cloud",
+      "SUCCESS": "¡Repositorio publicado con éxito en la nube!",
+      "INVALID_EXT": "Tipo de archivo no permitido",
+      "NEED_NAME": "El archivo necesita un nombre",
+      "NEED_PROJECT_NAME": "El nombre del repositorio es obligatorio",
+      "NEED_DESC": "La descripción del repositorio es obligatoria",
+      "DEPLOY_ERROR": "Error al desplegar repositorio"
+    },
+    "PROJECTS": {
+      "Calculadora-Neumorfica": {
+        "NAME": "Calculadora Neumórfica",
+        "DESC": "Una calculadora estética con diseño Neumorphic usando solo HTML y CSS nativo. Ideal para aprender sobre sombras y diseño moderno."
+      },
+      "Landing-Page-Minimalista": {
+        "NAME": "Landing Page Minimalista",
+        "DESC": "Un template de landing page responsivo y moderno para startups. Incluye secciones de hero, características y contacto."
+      },
+      "Juego-Snake-JS": {
+        "NAME": "Juego Snake JS",
+        "DESC": "El clásico juego de la serpiente programado en JavaScript puro usando Canvas API. Sin dependencias externas."
+      },
+      "Dashboard-Admin-Dark": {
+        "NAME": "Dashboard Admin Dark",
+        "DESC": "Panel de administración oscuro con gráficos animados usando CSS Grid y Flexbox. Totalmente personalizable."
+      },
+      "Devvia-Frontend": {
+        "NAME": "Devvia Frontend",
+        "DESC": "El repositorio principal de la plataforma Devvia hecho con React y Tailwind."
+      }
+    }
+  },
+  "USER": {
+    "NAV": {
+      "PERSONAL": "Datos Personales",
+      "APPLICATIONS": "Mis Postulaciones",
+      "SECURITY": "Seguridad y 2FA",
+      "TECH": "Conocimientos"
+    },
+    "PERSONAL": {
+      "TITLE": "Información Personal",
+      "AVATAR": "Selecciona tu Avatar",
+      "NAME": "Nombre",
+      "NAME_PLACEHOLDER": "Tu nombre...",
+      "SURNAME": "Apellido",
+      "SURNAME_PLACEHOLDER": "Tu apellido...",
+      "SAVE": "Guardar Cambios",
+      "SAVING": "Guardando..."
+    },
+    "APPLICATIONS": {
+      "TITLE": "Mis Postulaciones",
+      "EMPTY": "Aún no te has postulado a ninguna oferta.",
+      "DATE": "Fecha",
+      "STATUS": "Estado",
+      "DELETE_TOOLTIP": "Eliminar postulación",
+      "MODAL_TITLE": "¿Eliminar Postulación?",
+      "MODAL_DESC": "Estás a punto de retirar tu postulación para {{puesto}} en {{empresa}}.",
+      "CONFIRM_DELETE": "Confirmar Eliminación",
+      "CANCEL": "Cancelar"
+    },
+    "SECURITY": {
+      "TITLE": "Cambiar Contraseña",
+      "OLD_PASS": "Contraseña Actual",
+      "NEW_PASS": "Nueva Contraseña",
+      "UPDATE_SEC": "Actualizar Seguridad",
+      "TWOFA_TITLE": "Doble Factor (2FA)",
+      "TWOFA_DESC": "Aumenta la seguridad de tu cuenta solicitando un código extra al ingresar.",
+      "TWOFA_ON": "Doble Factor Activado",
+      "TWOFA_OFF": "Activar Doble Factor"
+    },
+    "TECH": {
+      "TITLE": "Conocimientos Técnicos",
+      "EMPTY": "Aún no has agregado conocimientos.",
+      "SUGGESTIONS": "Sugerencias",
+      "CONFIRM": "Confirmar Conocimientos"
+    },
+    "MESSAGES": {
+      "UPDATED": "Perfil actualizado con éxito",
+      "PASS_CHANGED": "Contraseña cambiada",
+      "PASS_FIELDS": "Completa ambos campos",
+      "DELETE_SUCCESS": "Postulación eliminada correctamente",
+      "DELETE_ERROR": "No se pudo eliminar la postulación",
+      "TWOFA_ERROR": "Error al cambiar 2FA"
+    }
+  }
+}
