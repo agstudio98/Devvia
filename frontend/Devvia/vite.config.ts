@@ -15,7 +15,7 @@ export default defineConfig({
     strictPort: true,
     proxy: {
       '/api': {
-        target: 'http://localhost:27022',
+        target: 'https://devvia-backend.onrender.com/api',
         changeOrigin: true,
         secure: false,
       }
