@@ -47,13 +47,19 @@ app.use((req, res, next) => {
 /**
  * ENRUTAMIENTO VERSIONADO
  * 
- * Se montan todas las rutas bajo /api/v1 para permitir futuras evoluciones
- * de la API sin romper la compatibilidad con versiones anteriores.
+ * Se montan todas las rutas bajo / para cumplir con el requerimiento de Render.
  */
-app.use('/api/v1', v1Router);
+app.get('/', (req, res) => {
+  res.json({
+    message: 'Bienvenido a la API de Devvia',
+    status: 'Activa',
+    version: '1.0.0'
+  });
+});
 
-// Soporte para rutas antiguas (Compatibilidad Legacy)
+app.use('/api/v1', v1Router);
 app.use('/api', v1Router);
+app.use('/', v1Router);
 
 /**
  * MANEJO DE RUTAS NO ENCONTRADAS (404)

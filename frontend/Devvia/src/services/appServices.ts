@@ -9,72 +9,72 @@ import apiClient from './apiClient';
 
 export const supportService = {
   chat: (payload: { mensaje: string, isOption: boolean }) => 
-    apiClient.post('/api/support/chat', payload)
+    apiClient.post('/support/chat', payload)
 };
 
 export const userService = {
   login: (credentials: any) => 
-    apiClient.post('/api/users/login', credentials),
+    apiClient.post('/users/login', credentials),
   register: (userData: any) => 
-    apiClient.post('/api/users/register', userData),
+    apiClient.post('/users/register', userData),
   getProfile: () => 
-    apiClient.get('/api/users/profile'),
+    apiClient.get('/users/profile'),
   updateProfile: (data: any) => 
-    apiClient.put('/api/users/profile', data),
+    apiClient.put('/users/profile', data),
   googleLogin: (profile: any) => 
-    apiClient.post('/api/users/google-login', { profile })
+    apiClient.post('/users/google-login', { profile })
 };
 
 export const forumService = {
   getPosts: () => 
-    apiClient.get('/api/v1/forum'),
+    apiClient.get('/forum'),
   getPostDetails: (id: string) => 
-    apiClient.get(`/api/v1/forum/${id}`),
+    apiClient.get(`/forum/${id}`),
   createPost: (postData: any) =>
-    apiClient.post('/api/v1/forum', postData),
+    apiClient.post('/forum', postData),
   updatePost: (id: string, postData: any) =>
-    apiClient.put(`/api/v1/forum/${id}`, postData),
+    apiClient.put(`/forum/${id}`, postData),
   deletePost: (id: string) =>
-    apiClient.delete(`/api/v1/forum/${id}`),
+    apiClient.delete(`/forum/${id}`),
   addComment: (commentData: any) => 
-    apiClient.post('/api/v1/forum/comment', commentData),
+    apiClient.post('/forum/comment', commentData),
   updateComment: (id: string, text: string) => 
-    apiClient.put(`/api/v1/forum/comment/${id}`, { text }),
+    apiClient.put(`/forum/comment/${id}`, { text }),
   deleteComment: (id: string) => 
-    apiClient.delete(`/api/v1/forum/comment/${id}`),
+    apiClient.delete(`/forum/comment/${id}`),
   ratePost: (id: string, stars: number) => 
-    apiClient.post(`/api/v1/forum/rate/${id}`, { stars })
+    apiClient.post(`/forum/rate/${id}`, { stars })
 };
 
 export const projectService = {
   getAll: () => 
-    apiClient.get('/api/v1/projects'),
+    apiClient.get('/projects'),
   getById: (id: string) => 
-    apiClient.get(`/api/v1/projects/${id}`),
+    apiClient.get(`/projects/${id}`),
   create: (formData: FormData) => 
-    apiClient.post('/api/v1/projects', formData),
+    apiClient.post('/projects', formData),
   update: (id: string, data: any) => 
-    apiClient.put(`/api/v1/projects/${id}`, data),
+    apiClient.put(`/projects/${id}`, data),
   remove: (id: string) => 
-    apiClient.delete(`/api/v1/projects/${id}`),
+    apiClient.delete(`/projects/${id}`),
   downloadZip: (id: string) => 
-    apiClient.get(`/api/v1/projects/${id}/download`, { responseType: 'blob' })
+    apiClient.get(`/projects/${id}/download`, { responseType: 'blob' })
 };
 
 export const productService = {
   getAll: () => 
-    apiClient.get('/api/products'),
+    apiClient.get('/products'),
   create: (productData: any) => 
-    apiClient.post('/api/products', productData)
+    apiClient.post('/products', productData)
 };
 
 export const orderService = {
   apply: (data: any) => 
-    apiClient.post('/api/orders/apply', data),
+    apiClient.post('/orders/apply', data),
   getMyOrders: () => 
-    apiClient.get('/api/orders/my-orders'),
+    apiClient.get('/orders/my-orders'),
   deleteOrder: (id: string) => 
-    apiClient.delete(`/api/orders/${id}`)
+    apiClient.delete(`/orders/${id}`)
 };
 
 /**
@@ -82,7 +82,7 @@ export const orderService = {
  */
 export const jobService = {
   getAll: () => 
-    apiClient.get('/api/jobs'),
+    apiClient.get('/jobs'),
   getById: (id: string) => 
-    apiClient.get(`/api/jobs/${id}`)
+    apiClient.get(`/jobs/${id}`)
 };

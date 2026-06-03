@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
+    "start": "node server.js",
     "test": "jest --watchAll",
     "test:ci": "jest --forceExit",
     "dev": "nodemon server.js"
